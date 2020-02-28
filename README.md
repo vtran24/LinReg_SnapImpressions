@@ -8,6 +8,9 @@ It makes sense for duration and impressions to be directly related as the longer
 With the amount spent on ads and duration data, it's clear that this data is a better indicator of future impressions. In most of the scenarios, as spending on an ad increases, so does the number of impressions. Our Rsq value implies that 74% of the spending data can explain and predict impressions in the future year(s). This is a better model to fit our data, but it still isn't ideal. We would need more data such as demographics to better appeal to the audience and boost impressions. We would also need to consider each company's budget as spending appears to be a contributing factor in success. There needs to be more qualitative data to see trends. 
 In further analysis with a Pivot Table, it also appears that General Mills is the most successful organization in generating a high number of impressions reaching 64M.
 
+Excel sheet: [MiniProject2.xlsx](https://github.com/vtran24/LinReg_SnapImpressions/files/4268576/MiniProject2.xlsx)
+Source: https://businesshelp.snapchat.com/en-US/article/political-ads-library
+
 ### Excel Steps
 1. Import 2019 Political Ads data
 2. Delete any noncontributing variables (ie. billing address, url)

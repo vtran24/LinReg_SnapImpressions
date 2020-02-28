@@ -18,3 +18,4 @@ In further analysis with a Pivot Table, it also appears that General Mills is th
 7. Obtain the slope (=slope(impressions, duration), yint (=intercept(impressions, duration), and rsq (=RSQ(impressions, duration) values.
 8. Click on Data Analysis and Regression. Use Impressions data as y-input values and both Duration and Spending as x-input values by clicking on corresponding cells. Output range is an empty cell. 
 9. Obtain regressions data. 
+10. Create Pivot Table with Organization name and Impressions. Name is the rows and Impressions is the value. 
